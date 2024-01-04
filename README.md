@@ -1,6 +1,5 @@
 This is a test for jenkins hook
 
 hhh
- cd mytest
+cd mytest
 
-then cd myhost
