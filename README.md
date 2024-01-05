@@ -5,4 +5,4 @@ cd mytest
 
 # cd jenkins
 
-## then cd root
+then cd root
